@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/router-training/static/css/main.7acaea2f.css",
+    "main.js": "/router-training/static/js/main.07d3183d.js",
+    "index.html": "/router-training/index.html",
+    "main.7acaea2f.css.map": "/router-training/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/router-training/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
